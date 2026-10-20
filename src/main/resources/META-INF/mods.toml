@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="dedportals"
+version="${mod_version}"
+displayName="Green Portals (DEDsafio style)"
+description='''Portales verdes enlazables con destino configurable, efecto de shader al atravesarlos y comandos de administracion.'''
+
+[[dependencies.dedportals]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dedportals]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

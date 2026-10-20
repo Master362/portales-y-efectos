@@ -1,0 +1,7 @@
+{
+  "portal.ambient": {"subtitle":"subtitles.dedportals.portal.ambient","sounds":["dedportals:portal_ambient"]},
+  "portal.enter":   {"subtitle":"subtitles.dedportals.portal.enter","sounds":["dedportals:portal_enter"]},
+  "portal.arrive":  {"subtitle":"subtitles.dedportals.portal.arrive","sounds":["dedportals:portal_arrive"]},
+  "portal.open":    {"subtitle":"subtitles.dedportals.portal.open","sounds":["dedportals:portal_open"]},
+  "portal.close":   {"subtitle":"subtitles.dedportals.portal.close","sounds":["dedportals:portal_close"]}
+}

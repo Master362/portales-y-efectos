@@ -1,0 +1,12 @@
+{
+  "ambientocclusion": false,
+  "render_type": "minecraft:translucent",
+  "textures": {"portal": "dedportals:block/portal", "particle": "dedportals:block/portal"},
+  "elements": [{
+    "from": [0, 0, 7], "to": [16, 16, 9], "shade": false,
+    "faces": {
+      "north": {"texture": "#portal", "uv": [0, 0, 16, 16]},
+      "south": {"texture": "#portal", "uv": [0, 0, 16, 16]}
+    }
+  }]
+}
